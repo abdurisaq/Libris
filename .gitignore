@@ -1,0 +1,10 @@
+.venv/
+venv/
+
+uploads
+
+*.db
+
+*/node_modules/
+*/__pycache__
+*.pyc
